@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$20/month",
+    "description": "Perfect for beginners who want to stay active with essential gym access and support.",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session per month",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Access to stretching area",
+      "Monthly progress tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$40/month",
+    "description": "Great for fitness enthusiasts who want group classes and more personal guidance.",
+    "features": [
+      "Access to gym equipment",
+      "4 personal training sessions per month",
+      "Group classes included",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Access to stretching area",
+      "Monthly progress tracking",
+      "Nutrition consultation",
+      "Access to cardio machines"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$60/month",
+    "popular" : true,
+    "description": "Ideal for serious athletes who want full access, advanced support, and exclusive perks.",
+    "features": [
+      "Unlimited access to gym equipment",
+      "8 personal training sessions per month",
+      "Group classes included",
+      "Sauna & Pool access",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Nutrition consultation",
+      "Priority class booking",
+      "Guest passes",
+      "Monthly body assessment",
+      "Access to premium equipment",
+      "1-on-1 fitness coaching"
+    ]
+  }
+]
